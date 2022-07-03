@@ -1,0 +1,18 @@
+source:
+  file: apiargs-common-param.yaml
+  ref: $options
+...
+source:
+  file: apiargs-common-option.yaml
+  ref: session
+---
+source:
+  file: apiargs-MongoDBDatabase-common-option.yaml
+  ref: typeMap
+post: |
+  This will be used for the returned command result document.
+---
+source:
+  file: apiargs-MongoDBDatabase-common-option.yaml
+  ref: writeConcern
+...

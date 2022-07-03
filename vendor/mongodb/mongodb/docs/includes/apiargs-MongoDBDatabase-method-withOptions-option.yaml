@@ -1,0 +1,34 @@
+source:
+  file: apiargs-common-option.yaml
+  ref: readConcern
+replacement:
+  resource: "database"
+  parent: "original database"
+---
+sourcsource:
+  file: apiargs-common-option.yaml
+  ref: readConcern
+replacement:
+  resource: "database"
+  parent: "original database"
+---
+source:
+  file: apiargs-common-option.yaml
+  ref: readPreference
+replacement:
+  resource: "database"
+  parent: "original database"
+---
+source:
+  file: apiargs-common-option.yaml
+  ref: typeMap
+replacement:
+  parent: "original database"
+---
+source:
+  file: apiargs-common-option.yaml
+  ref: writeConcern
+replacement:
+  resource: "database"
+  parent: "original database"
+...

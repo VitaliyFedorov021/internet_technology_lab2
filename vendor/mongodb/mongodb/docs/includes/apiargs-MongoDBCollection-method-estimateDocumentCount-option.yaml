@@ -1,0 +1,20 @@
+source:
+  file: apiargs-common-param.yaml
+  ref: $options
+...
+source:
+  file: apiargs-common-option.yaml
+  ref: maxTimeMS
+---
+source:
+  file: apiargs-MongoDBCollection-common-option.yaml
+  ref: readConcern
+---
+source:
+  file: apiargs-MongoDBCollection-common-option.yaml
+  ref: readPreference
+---
+source:
+  file: apiargs-common-option.yaml
+  ref: session
+...

@@ -1,0 +1,117 @@
+[{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 87654726,
+  "traffic_out": 34534,
+  "IP": "1.1.1.1",
+  "cost": 12784
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 792715,
+  "[{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 87654726,
+  "traffic_out": 34534,
+  "IP": "1.1.1.1",
+  "cost": 12784
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 792715,
+  "traffic_out": 127582,
+  "IP": "10.24.0.0",
+  "cost": 8983
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 689176836,
+  "traffic_out": 5667104,
+  "IP": "10.24.0.0",
+  "cost": 12
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 127765,
+  "traffic_out": 3847,
+  "IP": "172.31.255.255",
+  "cost": 68087
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 96271763,
+  "traffic_out": 1287576,
+  "IP": "100.127.255.255",
+  "cost": 45678
+}]
